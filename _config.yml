@@ -1,16 +1,16 @@
 # Configurations
-title:            IRS.EA
+title:            MCC Notes: IRS.EA
 longtitle:
 author:           MCC
-email:            mcurcio@duck.com
+email:            mock.run@gmail.com
 description: >
   MCC's Notes for EA
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://mc-ea.github.io'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
